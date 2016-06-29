@@ -1,0 +1,19 @@
+1: Hello brave warrior!
+Sup Noob! => 2
+Hello strange voice! => 3
+
+2: I don’t want to talk to you!
+Aww… => -1
+
+3: I have a quest for you
+K Bye => -1
+What is it? => 5
+What’s the pay? => 4
+
+4: You’ll get 5 gold you greedy swine.
+OK What is it? => 5
+That sucks. I’m out. => -1
+
+5: Collect ten dandilions.
+Let’s do it! => -1
+No way. => -1 
